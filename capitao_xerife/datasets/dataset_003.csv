@@ -1,0 +1,48 @@
+Paciente,Idade,Peso_kg,Alt_cm,IMC,Sexo
+Diego Costa,18.0,50.9,143.0,42.0,F
+Gabi Almeida,79.0,68.4,149.0,21.0,F
+João Almeida,,119.2,176.0,,F
+Edu Ferreira,85.0,72.6,,27.0,
+,76.0,117.8,183.0,,F
+Lia Almeida,42.0,44.3,,19.0,F
+Gabi Oliveira,,65.2,156.0,38.0,M
+Ana Silva,74.0,43.0,169.0,40.0,
+,41.0,96.2,175.0,18.0,M
+Edu Pereira,15.0,100.1,179.0,19.0,M
+Iris Souza,74.0,110.1,172.0,26.0,M
+,49.0,94.5,196.0,,M
+Hugo Santos,38.0,99.7,192.0,30.0,F
+Edu Santos,57.0,98.3,186.0,32.0,F
+Edu Oliveira,91.0,96.0,189.0,21.0,F
+Fê Costa,17.0,54.6,190.0,35.0,M
+Gabi Rodrigues,,,144.0,33.0,M
+Carla Lima,19.0,105.3,198.0,31.0,M
+Kai Souza,82.0,71.2,,33.0,F
+Bruno Pereira,17.0,78.4,196.0,38.0,F
+,84.0,43.5,177.0,27.0,M
+Edu Silva,15.0,80.6,144.0,19.0,F
+Hugo Oliveira,50.0,94.7,175.0,36.0,M
+Diego Costa,22.0,108.5,171.0,19.0,F
+Carla Lima,45.0,72.9,202.0,35.0,F
+Fê Pereira,30.0,114.5,199.0,27.0,M
+Edu Pereira,44.0,73.0,201.0,37.0,F
+Carla Oliveira,43.0,66.5,158.0,37.0,F
+Lia Pereira,61.0,79.2,,16.0,M
+Edu Costa,41.0,84.5,,19.0,M
+Ana Costa,30.0,105.2,167.0,27.0,
+Gabi Oliveira,95.0,104.1,192.0,22.0,M
+Hugo Costa,35.0,,180.0,38.0,F
+Lia Lima,37.0,,161.0,31.0,F
+Edu Costa,44.0,76.1,148.0,35.0,M
+João Santos,76.0,74.1,160.0,29.0,M
+Bruno Souza,78.0,67.5,186.0,,
+,16.0,105.3,,31.0,M
+Kai Costa,73.0,98.1,205.0,40.0,M
+,80.0,42.8,161.0,24.0,F
+Hugo Santos,78.0,64.9,194.0,33.0,F
+Edu Santos,61.0,100.2,183.0,41.0,M
+Iris Pereira,88.0,69.1,196.0,39.0,
+Iris Ferreira,51.0,85.4,147.0,41.0,
+Fê Costa,62.0,67.6,157.0,34.0,F
+Iris Oliveira,,86.4,157.0,19.0,M
+Ana Rodrigues,32.0,87.5,,18.0,M
