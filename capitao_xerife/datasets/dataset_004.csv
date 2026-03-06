@@ -1,0 +1,109 @@
+Agente,Canal,Severidade,Tempo_min,SLA_ok,Categoria
+Hugo Lima,Telefone,Alta,133.0,,Pagamento
+Ana Lima,Telefone,Média,104.0,NAO,Bug
+Gabi Lima,Email,Baixa,,,
+Ana Oliveira,Chat,Alta,34.0,SIM,Bug
+Gabi Rodrigues,Chat,Baixa,83.0,NAO,Login
+João Souza,Chat,Média,107.0,NAO,Bug
+Lia Silva,Telefone,Média,,NAO,Login
+Kai Silva,Telefone,Alta,28.0,NAO,Login
+João Pereira,Telefone,Baixa,101.0,,Pagamento
+Ana Santos,Email,Alta,158.0,NAO,Entrega
+Iris Santos,Email,Baixa,94.0,NAO,Bug
+Edu Almeida,Telefone,Média,4.0,SIM,Bug
+Bruno Costa,Chat,Média,68.0,SIM,Pagamento
+Bruno Costa,Chat,,14.0,SIM,Entrega
+Bruno Silva,Chat,Média,40.0,SIM,Pagamento
+João Lima,Chat,Alta,150.0,NAO,Entrega
+Kai Silva,,Alta,8.0,NAO,Login
+Iris Almeida,Email,Baixa,150.0,SIM,
+Iris Costa,Telefone,Alta,148.0,NAO,Login
+,Telefone,Média,104.0,NAO,Bug
+Edu Lima,Telefone,Baixa,168.0,SIM,Login
+Kai Souza,Telefone,Baixa,165.0,SIM,Login
+Kai Silva,Email,Alta,140.0,,Login
+Gabi Pereira,Telefone,Baixa,23.0,SIM,Bug
+,Email,Alta,176.0,,Pagamento
+Kai Santos,Telefone,Média,153.0,NAO,Entrega
+Fê Oliveira,Telefone,Baixa,178.0,SIM,Pagamento
+Lia Silva,Chat,Baixa,154.0,SIM,Pagamento
+Hugo Costa,Telefone,Média,173.0,SIM,Bug
+Lia Souza,Chat,Alta,178.0,NAO,Entrega
+Carla Souza,Email,Baixa,127.0,NAO,Pagamento
+Hugo Pereira,Email,Média,126.0,NAO,Bug
+Diego Lima,Email,Baixa,173.0,NAO,Login
+Diego Costa,Telefone,Alta,64.0,SIM,Bug
+Bruno Oliveira,Chat,Média,118.0,SIM,Login
+Iris Lima,Chat,Baixa,67.0,,Entrega
+Kai Oliveira,,Média,33.0,SIM,Pagamento
+Bruno Almeida,,Baixa,47.0,NAO,Bug
+,Email,Alta,148.0,SIM,Entrega
+Edu Rodrigues,Email,Alta,38.0,NAO,Pagamento
+João Souza,Telefone,Alta,59.0,SIM,
+Kai Santos,Email,Alta,160.0,SIM,Login
+Gabi Oliveira,Chat,Baixa,148.0,NAO,Bug
+Bruno Oliveira,Telefone,Média,101.0,NAO,Pagamento
+Ana Oliveira,,Baixa,88.0,SIM,Login
+Fê Pereira,Chat,Média,161.0,NAO,Login
+Bruno Silva,Email,,136.0,,Entrega
+Carla Costa,Telefone,Alta,178.0,SIM,
+Edu Silva,Email,Média,36.0,NAO,Entrega
+Bruno Oliveira,Chat,Média,47.0,NAO,Pagamento
+Lia Costa,Telefone,,74.0,NAO,Login
+Diego Rodrigues,Email,Baixa,98.0,SIM,Entrega
+Lia Santos,,Alta,,SIM,Pagamento
+,Chat,Alta,2.0,NAO,Entrega
+Diego Almeida,Telefone,Baixa,138.0,,Pagamento
+Kai Pereira,Telefone,Média,73.0,NAO,Bug
+Iris Santos,Email,,,NAO,
+Bruno Pereira,Telefone,Média,104.0,SIM,Login
+,Email,Alta,110.0,NAO,Bug
+Diego Santos,Email,Média,152.0,NAO,Login
+Kai Rodrigues,Email,Baixa,103.0,SIM,Bug
+Gabi Silva,Chat,Baixa,,NAO,
+Carla Pereira,Email,Baixa,10.0,SIM,Login
+Diego Rodrigues,Email,Média,162.0,,
+,Chat,Média,94.0,SIM,Bug
+Iris Ferreira,Telefone,Alta,105.0,NAO,Bug
+Hugo Rodrigues,Chat,Média,94.0,NAO,
+Carla Ferreira,Telefone,Alta,109.0,SIM,
+Carla Pereira,Telefone,Baixa,60.0,NAO,Bug
+Ana Costa,Email,Média,175.0,NAO,Bug
+Ana Lima,Chat,Média,148.0,NAO,Entrega
+Iris Santos,Email,,94.0,NAO,
+Ana Lima,Chat,Média,94.0,SIM,Login
+Hugo Silva,Email,Alta,10.0,NAO,Entrega
+João Rodrigues,Chat,Baixa,12.0,NAO,
+Ana Pereira,Telefone,Baixa,33.0,NAO,Pagamento
+Carla Ferreira,Telefone,Média,,SIM,Login
+Carla Costa,Telefone,Baixa,145.0,NAO,Bug
+João Lima,,Alta,101.0,NAO,Entrega
+Gabi Ferreira,Email,Alta,23.0,SIM,Pagamento
+Gabi Pereira,Email,Alta,114.0,SIM,Entrega
+Lia Rodrigues,Telefone,Média,8.0,,Bug
+Gabi Ferreira,,Média,65.0,,Bug
+Iris Ferreira,Chat,Baixa,,NAO,Entrega
+Edu Ferreira,,Média,173.0,NAO,Entrega
+Ana Almeida,Email,Alta,146.0,SIM,Bug
+Fê Costa,Telefone,Baixa,121.0,NAO,Entrega
+,Email,Alta,13.0,SIM,Login
+Hugo Silva,Chat,Média,,,
+Fê Lima,Chat,Baixa,91.0,SIM,Bug
+Edu Rodrigues,Chat,Alta,111.0,SIM,Bug
+Gabi Ferreira,Email,Alta,66.0,NAO,
+,Email,Média,81.0,NAO,Pagamento
+Carla Almeida,Email,Média,56.0,,Login
+Diego Almeida,Email,Média,175.0,NAO,Entrega
+,Chat,Média,118.0,SIM,Entrega
+Edu Santos,Telefone,Média,49.0,SIM,Entrega
+Lia Souza,,,94.0,SIM,Login
+Lia Almeida,Email,Média,177.0,NAO,Entrega
+João Pereira,Telefone,Alta,,,Entrega
+Bruno Silva,Email,Baixa,130.0,SIM,Bug
+João Souza,,Alta,146.0,SIM,Login
+,Email,Alta,99.0,NAO,Pagamento
+João Oliveira,Telefone,Alta,140.0,NAO,Login
+Bruno Lima,Chat,Alta,112.0,,Bug
+Diego Costa,Chat,Média,96.0,SIM,Bug
+Hugo Costa,Telefone,Média,9.0,SIM,Pagamento
+Hugo Costa,Email,Baixa,106.0,NAO,Pagamento
