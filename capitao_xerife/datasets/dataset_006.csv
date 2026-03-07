@@ -1,0 +1,146 @@
+Motorista,Dist_km,Preco_R$,Atraso_min,Regiao,Pagamento
+João Santos,31.9,43.87,8.0,Zona Sul,Pix
+João Santos,7.4,103.82,36.0,Zona Oeste,Dinheiro
+Ana Ferreira,7.5,156.76,37.0,Zona Leste,Pix
+Fê Oliveira,,44.81,18.0,Centro,Dinheiro
+Lia Lima,31.8,44.57,24.0,Centro,Dinheiro
+,3.2,75.49,40.0,,Dinheiro
+Bruno Lima,14.2,27.71,0.0,Zona Sul,Cartão
+Lia Oliveira,19.9,90.89,5.0,Zona Norte,Pix
+Fê Lima,11.5,14.52,8.0,Zona Leste,Dinheiro
+Gabi Rodrigues,14.6,120.79,16.0,Zona Sul,Dinheiro
+João Rodrigues,16.0,134.43,40.0,Zona Norte,Cartão
+Bruno Souza,29.4,159.47,14.0,Zona Norte,Cartão
+Ana Souza,13.5,136.2,21.0,Zona Sul,Pix
+Kai Pereira,35.0,72.47,27.0,Zona Oeste,Pix
+,,17.25,28.0,Zona Norte,Pix
+Kai Santos,,35.48,20.0,Zona Leste,Cartão
+Lia Almeida,8.4,84.05,29.0,Zona Sul,Dinheiro
+,5.3,51.26,12.0,Zona Norte,Dinheiro
+,26.2,69.93,2.0,Zona Sul,Pix
+Iris Costa,6.8,103.37,4.0,Zona Leste,Pix
+Gabi Almeida,25.6,104.48,39.0,Zona Sul,Dinheiro
+Diego Oliveira,24.9,,35.0,Centro,Dinheiro
+João Lima,6.1,33.6,38.0,Centro,Dinheiro
+Iris Ferreira,5.6,130.18,25.0,Zona Leste,Dinheiro
+Hugo Silva,29.9,,36.0,Centro,
+Lia Rodrigues,9.2,10.94,2.0,Zona Leste,Cartão
+Hugo Costa,15.2,136.46,6.0,Centro,Cartão
+Diego Costa,6.3,,28.0,Zona Norte,Dinheiro
+,26.2,117.64,15.0,Zona Oeste,Dinheiro
+Fê Oliveira,32.1,89.09,7.0,Zona Leste,Dinheiro
+Diego Almeida,6.2,58.44,28.0,Zona Oeste,Dinheiro
+Edu Ferreira,23.0,149.72,29.0,Centro,
+Kai Rodrigues,5.6,124.55,29.0,Zona Norte,Cartão
+Fê Almeida,19.2,15.04,19.0,Zona Sul,Pix
+Hugo Oliveira,16.9,144.76,39.0,Centro,Pix
+Lia Pereira,33.4,34.11,7.0,Zona Leste,Pix
+Gabi Pereira,32.9,152.32,1.0,Zona Oeste,Dinheiro
+Hugo Souza,5.3,24.11,5.0,Zona Norte,Pix
+Diego Pereira,13.4,35.22,13.0,Zona Leste,Pix
+João Pereira,18.3,14.7,36.0,,Dinheiro
+João Oliveira,6.1,8.72,,Zona Norte,Cartão
+Iris Silva,10.7,121.28,16.0,Zona Norte,Dinheiro
+Edu Almeida,3.5,130.51,38.0,Zona Oeste,Cartão
+Iris Pereira,34.0,99.56,0.0,Centro,Pix
+Diego Rodrigues,10.1,98.15,38.0,Zona Norte,
+João Rodrigues,30.2,134.37,18.0,Zona Leste,Dinheiro
+Hugo Santos,25.5,114.89,31.0,Zona Norte,Dinheiro
+Carla Almeida,18.5,24.08,25.0,Zona Sul,Pix
+,9.1,113.51,9.0,Zona Leste,Dinheiro
+Ana Pereira,33.5,113.55,5.0,Zona Norte,Pix
+Bruno Silva,9.7,117.04,38.0,Centro,Cartão
+,27.4,113.37,20.0,Zona Sul,Dinheiro
+Gabi Ferreira,29.7,90.53,21.0,Zona Leste,Pix
+Kai Silva,3.2,112.8,2.0,Zona Leste,Cartão
+Diego Santos,6.5,66.55,12.0,Zona Leste,
+Carla Santos,33.3,47.36,33.0,Zona Leste,Pix
+Hugo Silva,19.4,104.52,35.0,,Cartão
+Ana Rodrigues,,104.21,,Zona Norte,Cartão
+Bruno Santos,0.7,19.55,11.0,Zona Oeste,Cartão
+Ana Santos,17.4,,21.0,Zona Leste,Cartão
+Iris Souza,18.5,18.54,40.0,Zona Norte,Pix
+Kai Costa,1.4,65.13,,Zona Leste,Pix
+Hugo Ferreira,33.0,29.49,32.0,Zona Leste,Pix
+Lia Oliveira,30.9,114.23,3.0,Centro,Pix
+João Oliveira,27.7,88.18,32.0,Zona Sul,Pix
+João Lima,3.7,12.42,21.0,Zona Oeste,Pix
+Fê Almeida,23.4,141.93,33.0,Zona Sul,Dinheiro
+Ana Oliveira,,23.52,22.0,Zona Leste,Cartão
+Ana Almeida,33.2,150.02,26.0,Zona Oeste,Pix
+Diego Silva,,23.37,10.0,Zona Oeste,
+Iris Lima,14.2,121.37,38.0,Zona Leste,Dinheiro
+João Lima,31.5,120.42,0.0,Zona Leste,
+Edu Souza,12.8,129.52,,Zona Norte,Pix
+Edu Santos,12.1,129.38,2.0,Zona Oeste,Dinheiro
+Iris Rodrigues,6.8,71.53,8.0,Zona Sul,Dinheiro
+Fê Pereira,16.2,70.85,8.0,Zona Norte,Pix
+Carla Silva,8.1,36.16,,,Pix
+,6.3,43.58,33.0,Zona Leste,Cartão
+Hugo Pereira,22.4,122.64,5.0,Centro,Dinheiro
+,27.5,69.41,18.0,Centro,Dinheiro
+Hugo Almeida,23.6,98.33,38.0,Centro,Pix
+Diego Almeida,18.9,35.43,19.0,Centro,Dinheiro
+Iris Rodrigues,2.5,,38.0,Zona Oeste,Cartão
+Gabi Pereira,14.4,96.25,21.0,Zona Oeste,Cartão
+Bruno Souza,20.8,132.3,9.0,Centro,Dinheiro
+Edu Oliveira,22.0,77.97,5.0,Zona Leste,Dinheiro
+João Souza,23.6,11.32,11.0,Zona Leste,Dinheiro
+,13.0,53.97,31.0,Centro,Dinheiro
+Diego Costa,23.6,67.46,19.0,Centro,Dinheiro
+Ana Pereira,26.8,157.32,35.0,Zona Norte,Dinheiro
+João Costa,26.2,129.78,25.0,Zona Sul,Cartão
+Edu Silva,11.9,86.42,25.0,Zona Norte,Pix
+Fê Lima,30.8,138.06,18.0,Centro,Cartão
+Iris Santos,30.3,151.62,1.0,,Pix
+Kai Santos,6.3,136.26,22.0,Zona Sul,Dinheiro
+,13.2,67.51,17.0,Zona Norte,Dinheiro
+Hugo Ferreira,3.9,15.65,30.0,Zona Sul,Cartão
+Lia Oliveira,22.5,126.48,0.0,Centro,Pix
+Bruno Ferreira,20.4,20.25,37.0,,
+Ana Ferreira,29.1,58.89,4.0,Zona Norte,Dinheiro
+Hugo Santos,0.9,152.71,13.0,Zona Oeste,Pix
+Edu Silva,21.9,29.01,19.0,Zona Leste,Cartão
+Lia Costa,8.5,105.7,25.0,Centro,Pix
+Edu Silva,3.7,,32.0,Centro,Cartão
+Lia Oliveira,7.7,129.8,0.0,Centro,Pix
+Fê Santos,7.7,102.37,1.0,Zona Sul,Pix
+Lia Rodrigues,30.9,109.59,21.0,Centro,Dinheiro
+Bruno Souza,12.3,15.26,0.0,Zona Sul,Dinheiro
+Carla Souza,20.7,47.52,15.0,Zona Sul,Dinheiro
+Diego Ferreira,21.4,90.87,14.0,Zona Sul,Dinheiro
+Lia Lima,5.7,15.89,3.0,Zona Oeste,Pix
+Hugo Almeida,18.9,28.76,,Zona Oeste,Pix
+Edu Silva,33.0,108.69,39.0,Centro,Pix
+Bruno Rodrigues,,87.02,13.0,Zona Norte,
+Ana Almeida,15.6,15.68,22.0,Centro,Cartão
+Ana Rodrigues,32.8,47.5,30.0,Zona Leste,Cartão
+Iris Souza,16.8,94.05,33.0,Zona Oeste,Dinheiro
+Lia Rodrigues,12.7,86.07,37.0,Centro,Dinheiro
+Carla Oliveira,5.6,153.44,36.0,Zona Sul,Pix
+Kai Almeida,,45.99,18.0,Zona Norte,Dinheiro
+Ana Ferreira,32.9,69.4,18.0,Zona Norte,Pix
+Edu Santos,8.9,138.95,18.0,Zona Sul,Pix
+Hugo Santos,6.9,88.07,8.0,Zona Oeste,Cartão
+Gabi Lima,21.4,80.2,17.0,Zona Norte,Cartão
+Kai Silva,3.2,12.12,1.0,Zona Norte,Cartão
+Edu Oliveira,12.5,40.48,1.0,,Dinheiro
+Gabi Santos,22.4,104.35,5.0,Zona Leste,Dinheiro
+João Costa,31.8,56.19,30.0,Zona Norte,Cartão
+Kai Oliveira,24.9,,,Zona Oeste,Pix
+Carla Souza,30.2,131.0,40.0,Zona Norte,Pix
+Hugo Ferreira,11.3,27.35,13.0,Zona Oeste,Cartão
+Hugo Rodrigues,,98.18,1.0,Zona Oeste,
+Ana Oliveira,2.8,51.2,17.0,Zona Norte,Cartão
+Carla Rodrigues,13.2,78.06,10.0,Zona Leste,Pix
+Fê Silva,26.2,138.48,9.0,,Cartão
+Hugo Costa,32.4,38.42,14.0,,Dinheiro
+Gabi Pereira,33.5,148.99,7.0,Centro,
+Lia Rodrigues,14.2,125.22,30.0,Centro,Dinheiro
+Diego Souza,28.8,55.51,37.0,Zona Oeste,
+Edu Costa,2.6,85.25,38.0,Zona Norte,Cartão
+Iris Pereira,15.1,137.04,31.0,Centro,Cartão
+João Costa,8.8,,15.0,Centro,Pix
+João Silva,8.6,35.99,5.0,Zona Leste,Pix
+João Silva,25.6,36.18,5.0,Zona Norte,Dinheiro
+Fê Lima,19.4,27.35,21.0,Zona Leste,Pix

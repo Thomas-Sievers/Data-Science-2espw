@@ -17,7 +17,7 @@ homens = homens[homens["Sexo"].str.contains("M")]
 
 apenas_mulher = df[df["Sexo"] == "F"]
 maior_mulher = apenas_mulher.sort_values(by="Alt_cm", ascending=False).head(1)
-#print(maior_mulher[["Paciente", "Alt_cm", "IMC"]])
+print(maior_mulher[["Paciente", "Alt_cm", "IMC"]])
 maior_mulher_ICM = 35
 
 linhas_completas = df.dropna()
