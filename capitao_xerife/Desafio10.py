@@ -16,7 +16,7 @@ compras_cupom = len(compras_cupom)
 produto_vlr_medio = df.copy()
 produto_vlr_medio = produto_vlr_medio.dropna(subset=["Valor_R$"])
 produto_vlr_medio = produto_vlr_medio.groupby("Categoria")["Valor_R$"].mean().round()
-produto_vlr_medio = produto_vlr_medio.iloc[0]
+produto_vlr_medio = produto_vlr_medio.max()
 
 linhas_completas = df.copy()
 linhas_completas = linhas_completas.dropna()

@@ -1,31 +1,27 @@
 import pandas as pd
 
 df = pd.read_csv("datasets/dataset_001.csv")
-
 df.info()
-print(df.head(5))
 
-compras_acima_500 = df[(df["Valor_R$"] > 500) & (df["Entrega_dias"] > 10)]
-#Resultado disso da 32
-#print(len(compras_acima_500))
+vlr_500 = df[(df["Valor_R$"] > 500) & (df["Entrega_dias"] > 10)]
+vlr_500 = len(vlr_500)
 
-cupom_sem_cidade = df.copy()
-cupom_sem_cidade = cupom_sem_cidade.dropna(subset=["Cidade"])
-cupom_sem_cidade = df[df["Cupom"].str.contains("SIM", case=False)]
-#Resultado disso deu 55
-#print(len(cupom_sem_cidade))
+compras_cupom = df.copy()
+compras_cupom = compras_cupom.dropna(subset=["Cidade"])
+compras_cupom = compras_cupom[compras_cupom["Cupom"].str.contains("SIM", case=False, na=False)]
+compras_cupom = len(compras_cupom)
 
-produto_media_alta = df.copy()
-produto_media_alta = produto_media_alta.groupby("Categoria")['Valor_R$'].mean().round()
-produto_media_alta = produto_media_alta.max()
-#Resultado deu 678
-print(produto_media_alta)
+produto_maior_vlr = df.copy()
+produto_maior_vlr = produto_maior_vlr.dropna(subset=["Valor_R$"])
+produto_maior_vlr = produto_maior_vlr.groupby("Categoria")["Valor_R$"].mean().round()
+#This is wrong because the .mean() function automatically sort the values alphabetically, not by number
+#produto_maior_vlr = produto_maior_vlr.iloc[0]
+produto_maior_vlr = produto_maior_vlr.max()
 
-sem_NaN = df.copy()
-sem_NaN = sem_NaN.dropna()
-#Resultado deu 77
-print(len(sem_NaN))
+linhas_completas = df.copy()
+linhas_completas = linhas_completas.dropna()
+linhas_completas = len(linhas_completas)
 
-soma_total = len(compras_acima_500) + len(cupom_sem_cidade) + produto_media_alta + len(sem_NaN)
+soma_total = vlr_500 + compras_cupom + produto_maior_vlr + linhas_completas
 print(soma_total)
 
