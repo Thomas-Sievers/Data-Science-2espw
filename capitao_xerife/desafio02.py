@@ -19,7 +19,7 @@ maior_nota_turma = maior_nota_turma.max()
 maior_presenca = df.copy()
 maior_presenca = maior_presenca.dropna(subset=["Presenca_%"])
 maior_presenca = maior_presenca.sort_values(by="Presenca_%", ascending=False).head(5)
-maior_presenca = maior_presenca["Nota"].head(2).round()
+maior_presenca = maior_presenca["Nota"].iloc[0].round()
 
 
 soma_total = nota_8 + entrega_prazo + maior_nota_turma + maior_presenca
