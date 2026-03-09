@@ -1,0 +1,37 @@
+Paciente,Idade,Peso_kg,Alt_cm,IMC,Sexo
+Fê Lima,47.0,87.3,175.0,36.0,M
+Gabi Ferreira,79.0,110.7,200.0,42.0,M
+João Rodrigues,32.0,108.0,,22.0,
+,,50.2,151.0,39.0,F
+Gabi Santos,33.0,,187.0,33.0,M
+Edu Rodrigues,,102.0,185.0,28.0,
+Iris Almeida,90.0,93.5,165.0,32.0,M
+Lia Ferreira,21.0,80.0,201.0,41.0,M
+Diego Pereira,86.0,117.1,186.0,17.0,F
+João Lima,36.0,87.7,200.0,37.0,
+Fê Souza,49.0,44.4,,27.0,M
+Fê Ferreira,64.0,102.5,140.0,,M
+Edu Almeida,,,160.0,23.0,F
+Edu Pereira,60.0,,146.0,,M
+Iris Souza,56.0,107.5,154.0,39.0,M
+João Pereira,58.0,87.8,192.0,23.0,F
+,94.0,94.4,180.0,41.0,F
+Ana Lima,61.0,,187.0,20.0,M
+Bruno Silva,50.0,78.9,161.0,,F
+Bruno Souza,70.0,53.2,,37.0,F
+Ana Almeida,79.0,56.4,200.0,19.0,
+Bruno Lima,62.0,117.9,,,M
+Lia Silva,28.0,57.6,142.0,21.0,M
+Gabi Rodrigues,79.0,54.4,149.0,41.0,M
+Lia Santos,62.0,57.4,160.0,24.0,M
+Gabi Lima,,112.0,165.0,18.0,M
+Carla Lima,45.0,119.8,160.0,39.0,M
+Bruno Costa,15.0,109.9,140.0,40.0,M
+Kai Silva,67.0,88.7,,29.0,M
+Bruno Souza,25.0,94.3,191.0,37.0,
+,51.0,64.9,203.0,17.0,F
+João Lima,26.0,106.3,196.0,19.0,M
+Fê Silva,67.0,52.3,157.0,30.0,M
+,82.0,,194.0,41.0,F
+Edu Silva,92.0,113.3,174.0,27.0,F
+Fê Oliveira,32.0,56.1,150.0,24.0,F

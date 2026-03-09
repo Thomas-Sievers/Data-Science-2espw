@@ -1,0 +1,92 @@
+Cliente,Cidade,Categoria,Valor_R$,Entrega_dias,Cupom
+Fê Almeida,Guarulhos,Casa,405.59,9.0,NAO
+João Rodrigues,Osasco,,210.29,24.0,SIM
+Bruno Almeida,,Casa,945.54,6.0,NAO
+Iris Oliveira,Santo André,Eletrônicos,1011.26,24.0,NAO
+,São Bernardo,Eletrônicos,460.5,24.0,
+Carla Silva,São Bernardo,,342.06,,NAO
+Fê Rodrigues,São Caetano,,130.69,2.0,
+,Diadema,Casa,262.67,14.0,
+Lia Pereira,Osasco,,777.13,14.0,NAO
+João Ferreira,São Caetano,Mercado,276.15,23.0,NAO
+,Santo André,Eletrônicos,174.68,23.0,SIM
+Bruno Almeida,São Caetano,Casa,375.49,,SIM
+,São Paulo,Eletrônicos,261.55,0.0,
+Iris Lima,,Mercado,,6.0,NAO
+Gabi Lima,Diadema,Eletrônicos,286.92,4.0,SIM
+Iris Costa,Diadema,Moda,462.24,21.0,NAO
+,Santo André,Casa,34.04,7.0,SIM
+Diego Lima,São Bernardo,Eletrônicos,177.84,6.0,SIM
+Hugo Costa,Guarulhos,Casa,797.95,,NAO
+Lia Costa,,Eletrônicos,53.22,5.0,NAO
+Diego Ferreira,Santo André,Moda,899.26,15.0,NAO
+Carla Souza,São Caetano,Eletrônicos,580.25,11.0,SIM
+,São Caetano,Moda,,16.0,
+Iris Costa,São Bernardo,,579.66,7.0,NAO
+Carla Almeida,São Caetano,Casa,323.86,,NAO
+Hugo Oliveira,São Paulo,Mercado,824.28,11.0,SIM
+Diego Silva,São Paulo,Casa,408.14,19.0,SIM
+Fê Silva,São Caetano,Eletrônicos,967.11,25.0,NAO
+Iris Lima,Diadema,Mercado,765.92,9.0,NAO
+Edu Silva,Osasco,Eletrônicos,1020.52,1.0,SIM
+Gabi Oliveira,São Paulo,Moda,741.55,12.0,
+João Silva,São Caetano,Eletrônicos,,13.0,SIM
+Ana Costa,Osasco,Mercado,172.46,5.0,NAO
+Diego Silva,São Paulo,Moda,123.59,7.0,
+Hugo Ferreira,Santo André,,1176.49,,SIM
+Edu Souza,Santo André,Eletrônicos,1067.57,22.0,SIM
+Diego Santos,São Paulo,Mercado,849.06,25.0,SIM
+Gabi Souza,Santo André,Mercado,625.19,6.0,SIM
+,São Caetano,Eletrônicos,1145.8,14.0,NAO
+Gabi Costa,Santo André,Casa,212.08,10.0,SIM
+Hugo Ferreira,São Caetano,Eletrônicos,711.72,2.0,NAO
+Edu Lima,Guarulhos,Eletrônicos,887.23,8.0,SIM
+Gabi Oliveira,São Bernardo,Casa,873.94,6.0,NAO
+Lia Oliveira,Diadema,Mercado,,13.0,NAO
+Kai Pereira,São Bernardo,Casa,390.35,12.0,SIM
+Lia Almeida,,,190.49,1.0,NAO
+João Oliveira,Guarulhos,Eletrônicos,344.67,,NAO
+Iris Silva,Diadema,Eletrônicos,66.14,1.0,SIM
+João Lima,São Paulo,Moda,111.61,24.0,NAO
+Diego Ferreira,Santo André,Mercado,1012.44,7.0,NAO
+Hugo Lima,Osasco,Mercado,594.58,,NAO
+Ana Costa,São Caetano,Casa,616.92,1.0,SIM
+João Costa,Guarulhos,Moda,1121.97,21.0,NAO
+Ana Santos,São Bernardo,Eletrônicos,971.84,6.0,NAO
+João Oliveira,Diadema,Eletrônicos,494.02,19.0,SIM
+,Guarulhos,,605.17,23.0,SIM
+Hugo Costa,,Eletrônicos,155.97,11.0,NAO
+Kai Pereira,Guarulhos,Mercado,1145.82,,NAO
+Gabi Oliveira,Guarulhos,Casa,101.71,17.0,SIM
+Fê Ferreira,Guarulhos,Casa,36.18,20.0,NAO
+João Santos,Diadema,Eletrônicos,,4.0,SIM
+Ana Costa,Santo André,Eletrônicos,,12.0,SIM
+Kai Costa,São Paulo,Casa,604.36,20.0,SIM
+Kai Santos,,Mercado,1195.57,20.0,NAO
+Lia Pereira,São Caetano,Mercado,968.85,18.0,SIM
+João Costa,Osasco,Moda,383.89,4.0,NAO
+Iris Pereira,São Bernardo,Mercado,865.43,14.0,NAO
+Edu Ferreira,Santo André,Moda,,22.0,NAO
+,Guarulhos,Mercado,917.74,24.0,SIM
+João Almeida,São Caetano,Casa,976.49,5.0,NAO
+,Santo André,Eletrônicos,,2.0,NAO
+,São Paulo,Eletrônicos,196.32,17.0,NAO
+Lia Oliveira,Osasco,Eletrônicos,485.44,10.0,
+Ana Almeida,São Bernardo,Mercado,968.67,3.0,NAO
+Lia Almeida,Guarulhos,Mercado,230.95,4.0,NAO
+Ana Oliveira,Guarulhos,Casa,494.41,4.0,SIM
+Lia Rodrigues,Guarulhos,Mercado,786.45,8.0,SIM
+Edu Souza,São Bernardo,Eletrônicos,1126.06,7.0,SIM
+Fê Souza,Diadema,Moda,218.66,9.0,SIM
+Edu Souza,Guarulhos,Mercado,869.63,21.0,SIM
+Lia Lima,Guarulhos,Moda,466.91,17.0,NAO
+Lia Souza,Guarulhos,Moda,493.06,25.0,SIM
+Iris Almeida,Santo André,Eletrônicos,475.88,13.0,NAO
+Carla Ferreira,,Eletrônicos,403.76,7.0,NAO
+João Pereira,São Caetano,Moda,,11.0,SIM
+Carla Pereira,,Eletrônicos,,18.0,SIM
+Carla Rodrigues,São Paulo,Casa,,,NAO
+Fê Santos,São Bernardo,Eletrônicos,154.18,22.0,
+Hugo Costa,São Bernardo,Eletrônicos,18.13,7.0,NAO
+Hugo Silva,Santo André,Eletrônicos,1105.06,23.0,NAO
+Bruno Santos,Santo André,Casa,326.32,6.0,NAO

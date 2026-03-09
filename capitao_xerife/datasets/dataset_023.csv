@@ -1,0 +1,88 @@
+Agente,Canal,Severidade,Tempo_min,SLA_ok,Categoria
+Fê Costa,,Alta,86.0,NAO,Pagamento
+João Almeida,Email,Alta,44.0,NAO,Entrega
+Carla Rodrigues,Telefone,Baixa,80.0,NAO,Pagamento
+Lia Oliveira,Email,Média,148.0,SIM,Bug
+Gabi Oliveira,Chat,Alta,152.0,SIM,Pagamento
+Edu Almeida,,,38.0,,Pagamento
+Iris Oliveira,Telefone,Média,179.0,NAO,Pagamento
+Edu Silva,,Alta,169.0,,Bug
+Hugo Oliveira,Email,Baixa,114.0,,Entrega
+Carla Ferreira,Telefone,Baixa,76.0,SIM,Bug
+Fê Silva,Email,Baixa,19.0,NAO,Bug
+Iris Lima,Chat,,128.0,NAO,Entrega
+Edu Pereira,Telefone,Média,84.0,NAO,
+Diego Santos,Email,Baixa,71.0,SIM,Login
+Bruno Souza,Chat,,162.0,SIM,Entrega
+João Santos,Telefone,Baixa,9.0,NAO,Entrega
+Bruno Ferreira,Telefone,Baixa,69.0,NAO,Bug
+,Chat,Alta,151.0,NAO,Entrega
+Iris Lima,Telefone,Média,16.0,,Entrega
+Bruno Costa,Email,Alta,60.0,NAO,Bug
+João Pereira,Telefone,Alta,5.0,NAO,Entrega
+,Email,Baixa,19.0,NAO,Pagamento
+Iris Souza,Email,Média,47.0,NAO,Pagamento
+,Email,Baixa,21.0,,Bug
+Iris Rodrigues,,Alta,22.0,SIM,
+,Telefone,Média,161.0,SIM,
+Iris Pereira,Telefone,Baixa,134.0,SIM,Login
+,Email,,80.0,,Entrega
+Iris Santos,Telefone,,58.0,NAO,Login
+Kai Costa,Chat,Alta,16.0,SIM,Entrega
+Iris Costa,Telefone,,13.0,NAO,Bug
+Fê Santos,Telefone,Alta,52.0,SIM,Login
+Kai Rodrigues,,Alta,81.0,SIM,Bug
+Edu Ferreira,Telefone,Média,28.0,,Login
+Gabi Souza,Chat,Média,88.0,NAO,Pagamento
+João Pereira,Chat,Baixa,141.0,SIM,Pagamento
+Hugo Souza,Chat,Média,1.0,NAO,Bug
+Hugo Silva,Email,Alta,,SIM,Login
+Iris Almeida,Telefone,Baixa,52.0,SIM,Login
+Edu Almeida,Telefone,Baixa,35.0,SIM,Entrega
+Iris Lima,Email,Alta,130.0,NAO,Pagamento
+Fê Oliveira,Email,Baixa,43.0,SIM,Bug
+Ana Souza,Email,Alta,11.0,,Login
+Edu Silva,Email,Baixa,155.0,SIM,Bug
+Edu Pereira,,Média,132.0,NAO,Entrega
+Fê Souza,Chat,Baixa,157.0,NAO,Pagamento
+Hugo Lima,Chat,Alta,46.0,NAO,Pagamento
+João Almeida,Email,Baixa,85.0,NAO,Entrega
+Fê Santos,Telefone,Baixa,161.0,SIM,Bug
+Edu Lima,Chat,,40.0,SIM,Bug
+Diego Silva,,Média,147.0,SIM,Login
+Lia Ferreira,Email,Média,99.0,SIM,Login
+,Email,Alta,97.0,NAO,
+João Ferreira,Email,Baixa,84.0,SIM,Pagamento
+Diego Ferreira,Chat,Média,178.0,NAO,Login
+Kai Silva,Telefone,Média,151.0,SIM,Bug
+Fê Santos,Chat,Alta,105.0,SIM,Bug
+Kai Costa,Telefone,Alta,138.0,SIM,Pagamento
+Lia Santos,Chat,Média,14.0,SIM,Pagamento
+Fê Souza,Email,Baixa,22.0,NAO,Login
+Lia Rodrigues,Email,Alta,95.0,SIM,Bug
+Lia Almeida,,Alta,,SIM,Entrega
+Carla Pereira,Telefone,,75.0,SIM,Bug
+Carla Souza,,Média,55.0,SIM,Entrega
+Lia Pereira,Telefone,Alta,,,Entrega
+Kai Lima,Chat,Alta,61.0,NAO,
+Bruno Lima,Telefone,,49.0,NAO,Login
+Lia Pereira,,Baixa,,NAO,Pagamento
+João Souza,Email,Baixa,161.0,,Pagamento
+João Almeida,Email,Baixa,83.0,SIM,Login
+Edu Almeida,Email,,138.0,NAO,Bug
+Ana Costa,Chat,Baixa,111.0,SIM,Login
+Carla Pereira,Email,Baixa,,NAO,Bug
+Ana Souza,Chat,,99.0,SIM,Pagamento
+Kai Santos,Chat,Alta,76.0,NAO,Bug
+Gabi Ferreira,Email,Alta,30.0,NAO,
+Edu Ferreira,Email,,41.0,NAO,Bug
+João Souza,Telefone,Média,148.0,SIM,Login
+,Telefone,Média,107.0,NAO,Entrega
+Diego Oliveira,Telefone,Baixa,158.0,NAO,Bug
+Gabi Pereira,Chat,,,SIM,Entrega
+,Telefone,Baixa,136.0,NAO,Bug
+Ana Pereira,Chat,Média,69.0,NAO,Pagamento
+Carla Pereira,Chat,Alta,143.0,NAO,Bug
+Hugo Lima,Chat,Baixa,26.0,SIM,Entrega
+Edu Souza,Email,Média,4.0,NAO,Bug
+Gabi Ferreira,Telefone,Média,134.0,NAO,Entrega

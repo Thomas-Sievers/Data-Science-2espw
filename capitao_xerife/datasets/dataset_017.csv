@@ -1,0 +1,70 @@
+Paciente,Idade,Peso_kg,Alt_cm,IMC,Sexo
+Lia Lima,88.0,99.6,189.0,28.0,F
+Hugo Souza,91.0,66.4,200.0,36.0,F
+Fê Costa,63.0,43.8,,,F
+Carla Costa,95.0,77.2,187.0,25.0,M
+João Souza,28.0,41.7,160.0,32.0,F
+João Rodrigues,25.0,91.8,182.0,23.0,F
+João Lima,54.0,50.7,161.0,,F
+Gabi Costa,94.0,58.6,145.0,42.0,M
+João Costa,65.0,44.9,,26.0,F
+Diego Almeida,60.0,112.7,185.0,,F
+Lia Oliveira,,67.3,150.0,22.0,F
+Kai Pereira,33.0,,202.0,16.0,M
+Diego Souza,74.0,60.7,176.0,21.0,F
+João Rodrigues,56.0,81.0,,16.0,M
+Bruno Almeida,94.0,104.6,152.0,,M
+Edu Lima,57.0,69.7,201.0,42.0,M
+Edu Costa,58.0,112.8,174.0,26.0,
+João Rodrigues,50.0,108.4,174.0,29.0,F
+João Almeida,,116.8,186.0,17.0,M
+,73.0,113.4,205.0,33.0,F
+Bruno Pereira,51.0,118.8,188.0,27.0,
+Fê Ferreira,43.0,,,18.0,M
+Iris Pereira,23.0,84.8,154.0,25.0,F
+Bruno Ferreira,46.0,59.8,149.0,35.0,F
+Diego Silva,69.0,90.9,200.0,,M
+João Souza,81.0,52.3,185.0,33.0,M
+Hugo Almeida,52.0,52.3,,40.0,M
+Ana Oliveira,45.0,113.4,161.0,41.0,M
+Diego Santos,44.0,72.9,197.0,22.0,F
+Kai Pereira,44.0,88.5,166.0,24.0,M
+Carla Pereira,85.0,69.3,,16.0,
+,48.0,66.2,187.0,42.0,F
+Kai Souza,48.0,64.4,187.0,31.0,M
+,26.0,52.4,204.0,32.0,F
+Hugo Lima,,96.9,145.0,31.0,F
+Kai Ferreira,19.0,59.3,165.0,22.0,M
+Hugo Silva,33.0,58.9,185.0,24.0,M
+Iris Santos,67.0,94.5,,22.0,M
+Lia Pereira,27.0,,142.0,38.0,M
+,50.0,,153.0,25.0,F
+,32.0,55.0,,17.0,
+Carla Pereira,64.0,115.5,157.0,32.0,F
+Kai Oliveira,45.0,119.6,162.0,42.0,
+João Almeida,78.0,67.4,150.0,21.0,M
+Edu Pereira,29.0,76.2,170.0,22.0,F
+Hugo Pereira,52.0,115.7,,31.0,F
+Ana Oliveira,95.0,95.4,200.0,18.0,M
+Ana Almeida,89.0,96.2,204.0,30.0,F
+Iris Oliveira,37.0,82.0,202.0,,M
+Hugo Costa,,82.0,162.0,29.0,M
+Carla Lima,33.0,91.1,200.0,34.0,F
+Carla Rodrigues,32.0,118.5,194.0,36.0,M
+Gabi Costa,34.0,54.6,164.0,,F
+Bruno Oliveira,71.0,64.7,197.0,31.0,M
+Fê Lima,25.0,64.1,192.0,41.0,M
+João Pereira,63.0,62.6,,17.0,M
+Bruno Santos,,79.4,192.0,16.0,F
+João Lima,64.0,107.4,170.0,,
+Fê Santos,57.0,106.1,166.0,32.0,M
+Lia Lima,21.0,64.0,178.0,40.0,M
+João Lima,,91.9,191.0,20.0,M
+Ana Santos,,44.4,,18.0,M
+Lia Almeida,93.0,106.7,199.0,21.0,M
+Bruno Silva,90.0,,156.0,35.0,F
+Lia Santos,,77.0,147.0,22.0,M
+Kai Pereira,28.0,105.0,169.0,33.0,
+Edu Pereira,45.0,92.8,180.0,22.0,F
+Kai Oliveira,83.0,99.5,162.0,36.0,
+Bruno Lima,61.0,81.1,163.0,31.0,F
